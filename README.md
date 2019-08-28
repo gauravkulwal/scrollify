@@ -1,4 +1,5 @@
 # scrollify
+for image i use canva 
 jquery smooth scrollify
 
 <!DOCTYPE html>
